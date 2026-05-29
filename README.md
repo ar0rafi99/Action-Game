@@ -1,2 +1,5 @@
-# Action-Game
-A polished, modernized Action game built entirely in Python using the Pygame framework. This implementation goes beyond the basics to deliver a complete arcade experience featuring multiple customizable skins, dynamic particle physics, persistent local save tracking, and smooth animations.
+# DOOM style 3d (raycasting) game in Python (based on Wolfenstein 3d)
+
+Control: 'WASD' + mouse
+
+![doom](/sreenshots/0.jpg)
